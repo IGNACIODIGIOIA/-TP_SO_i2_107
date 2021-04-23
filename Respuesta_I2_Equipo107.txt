@@ -1,0 +1,23 @@
+Equipo 107
+Ignacio di gioia
+Theo Katz
+Florencia
+ 
+a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
+
+-Se actualiza con la siguiente lista de comandos.
+1.git remote add upstream git://github.com/originaldev/originalrepo.git
+2.git fetch upstream
+3.git pull upstream main
+
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+
+No, no puede
+
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+
+d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
+el fork?
+
+e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
+orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
