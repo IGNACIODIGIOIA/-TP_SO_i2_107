@@ -12,7 +12,7 @@ a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
 
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
 
-No, no puede
+Si, si Gamma hace git pull al repo de de Alfa.
 
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
 
